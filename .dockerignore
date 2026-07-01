@@ -1,0 +1,12 @@
+.git
+.gitmodules
+.gitignore
+.github
+media
+*.md
+!README.md
+app/Bookstore.Cdk
+app/Bookstore.Domain.Tests
+transformation-report-043ab821-d3d9-4964-86f2-3d460dd0b792
+qtransform-generated-input.json
+package-cleanup-result.json
